@@ -3,7 +3,7 @@
 :root {
   --main-background-color: #d5e1ef;
   --primary-color-text: #1f314f;
-  --secondary-color-text: #1f314f;
+  --secondary-color-text: #68778d;
 }
 
 * {
@@ -39,6 +39,8 @@
 }
 
 .tagline {
+  width: 288px;
+  height: 131px;
   padding: 0 16px;
 }
 .headline {
