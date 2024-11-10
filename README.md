@@ -38,6 +38,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 In this frontend mentor challange I learned about
+
 -css variable and revised html-css concept as I go building this project.
+
 -used css flex box.
+
 -revised alignment of element using css properties.
